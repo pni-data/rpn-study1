@@ -1,6 +1,6 @@
 {
     "Name": "RPN-signature_Study1",
-    "License": "PDDL",
+    "License": "CC0",
     "Authors": [
         "Tamas Spisak",
         "Balint Kincses",
@@ -12,9 +12,11 @@
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": ". Spisak et al., Pain-free resting-state functional brain connectivity predicts individual pain sensitivity, under review, 2019.",
-    "Funding": [""],
+    "Funding": [
+        ""
+    ],
     "ReferencesAndLinks": [],
-    "DatasetDOI": "",
+    "DatasetDOI": "10.18112/openneuro.ds002608.v1.0.0",
     "BIDSVersion": "1.1.1",
     "ReferensesAndLinks": ""
 }
